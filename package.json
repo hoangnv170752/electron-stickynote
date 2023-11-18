@@ -1,0 +1,24 @@
+{
+  "name": "electron-stickynote",
+  "version": "1.0.0",
+  "description": "Sticky Note",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoangnv170752/electron-stickynote.git"
+  },
+  "author": "akashi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hoangnv170752/electron-stickynote/issues"
+  },
+  "homepage": "https://github.com/hoangnv170752/electron-stickynote#readme",
+  "dependencies": {
+    "electron": "^27.1.0",
+    "resize-img": "^2.0.0",
+    "toastify-js": "^1.12.0"
+  }
+}
